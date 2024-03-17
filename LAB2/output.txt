@@ -1,0 +1,27 @@
+Student Number: s26728
+
+Original List: [12, 3, 20, 5, 6, 10]
+Original Tuple: (12, 3, 5, 6, 1)
+Original Set: {1, 3, 5, 6, 12}
+Original Dictionary: {'number1': 1, 'number3': 3, 'number4': 4}
+
+Manipulated List: [12, 3, 20, 5, 6, 10]
+Manipulated Tuple: (12, 3, 5, 6, 1)
+Union of Set: {1, 2, 3, 5, 6, 12}
+Intersection of Set: {1, 5}
+Difference of Set: {3, 12, 6}
+Updated Dictionary: {'number1': 1, 'number3': 3, 'number4': 4}
+
+List to Tuple: (12, 3, 20, 5, 6, 10)
+List to Set: {3, 5, 6, 10, 12, 20}
+List to Dictionary: {12: 144, 3: 9, 20: 400, 5: 25, 6: 36, 10: 100}
+Tuple to List: [12, 3, 5, 6, 1]
+Tuple to Set: {1, 3, 5, 6, 12}
+Tuple to Dictionary: {12: 144, 3: 9, 5: 25, 6: 36, 1: 1}
+Set to List: {1, 3, 5, 6, 12}
+Set to Tuple: (1, 3, 5, 6, 12)
+Set to Dictionary: {1: 1, 3: 9, 5: 25, 6: 36, 12: 144}
+Dictionary to List: ['number1', 1, 'number3', 3, 'number4', 4]
+Dictionary to Tuple: ('number1', 1, 'number3', 3, 'number4', 4)
+Dictionary to Set: {1, 3, 'number3', 4, 'number1', 'number4'}
+New line 
