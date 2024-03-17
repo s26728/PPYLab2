@@ -1,0 +1,4 @@
+List of prime numbers: [3, 5, 3, 2, 3, 5, 5, 3, 3, 3, 5, 3, 5, 3, 5, 3, 5, 3, 3, 3, 3]
+Sum of prime numbers: 76
+Largest prime number: 5
+Smallest prime number: 2
